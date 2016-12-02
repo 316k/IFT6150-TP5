@@ -1,6 +1,6 @@
 /*------------------------------------------------------*/
 /* Prog    : ProgDemoN.c                                */
-/* Auteur  :                                            */
+/* Auteur  : Mercedes Gauthier, Nicolas Hurtubise       */
 /* Date    :                                            */
 /* version :                                            */ 
 /* langage : C                                          */
